@@ -1,15 +1,11 @@
 # Oleg SMALIAKOU
 ## JUNIOR SOFTWARE ENGINEER
+![](profile.png)
 
-|||
-|:--------------------|:--------------------|
-| ivansaklov@gmail.com	| aleh-smaliakou |
-| + 33-601-29-47-49			| https://github.com/iSaklov
-
-<!-- - ivansaklov@gmail.com
-- +33-601-29-47-49
-- aleh-smaliakou
-- https://github.com/iSaklov -->
+* :email: ivansaklov@gmail.com     
+* :telephone_receiver: +33-601-29-47-49     	    
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/) 
+* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov)
 
 
 ## Professional skills
@@ -63,6 +59,7 @@
 
 ## Languages
 |||
-|:--------------------:|:------------------------|
-| Belarusian, Russian  | Natives
+|:---------------------|:------------------------|
+| Belarusian  				 | Natives								 |
+| Russian							 | Natives								 |
 | French 							 | Professional competence |
