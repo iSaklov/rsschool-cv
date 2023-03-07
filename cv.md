@@ -2,15 +2,9 @@
 ## JUNIOR SOFTWARE ENGINEER
 ![](profile.png)
 
-<!-- * ivansaklov@gmail.com     
-* +33-601-29-47-49     	    
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/) 
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov) -->
-
-|||
-|:-----|:-----|
-|ivansaklov@gmail.com | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/) |
-| +33-601-29-47-49   	| [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov)
+|ivansaklov@gmail.com 	| [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/) |
+|:----------------------|:----------------------------------------|
+| **+33-601-29-47-49**  | **[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov)** 								 |
 
 
 ## Professional skills
@@ -63,8 +57,7 @@
 
 ## Languages
 
-|||
-|:---------------------|:------------------------|
-| Belarusian  				 | Natives								 |
-| Russian							 | Natives								 |
-| French 							 | Professional competence |
+| Belarusian				 | Natives										 |
+|:-------------------|:----------------------------|
+| **Russian**				 | **Natives**								 |
+| **French** 				 | **Professional competence** |
