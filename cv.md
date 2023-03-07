@@ -2,26 +2,30 @@
 ## JUNIOR SOFTWARE ENGINEER
 ![](profile.png)
 
-* :email: ivansaklov@gmail.com     
-* :telephone_receiver: +33-601-29-47-49     	    
+<!-- * ivansaklov@gmail.com     
+* +33-601-29-47-49     	    
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/) 
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov)
+* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov) -->
+
+|||
+|:-----|:-----|
+|ivansaklov@gmail.com | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/) |
+| +33-601-29-47-49   	| [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov)
 
 
 ## Professional skills
 
-||||
-|:---------------:|:---------------:|:---------------:|
-| HTML5						| JavaScript ES6	| Cit & GitHub		|
-| CCS3						| React						| API REST				|
-| SASS & SCSS			| Next.js					| JSON						|
-| Bootstrap				| Node.js					| Redux						| 
-| Materialize CCS | Express.js			| NoSQL						| 
+| HTML5								| JavaScript ES6			| Git & GitHub		|
+|:-------------------:|:-------------------:|:---------------:|
+| **CCS3**						| **React**						| **API REST**		|
+| **SASS & SCSS**			| **Next.js**					| **JSON**				|
+| **Bootstrap**				| **Node.js**			 		| **Redux**			 	| 
+| **Materialize CCS** | **Express.js**			| **NoSQL**				| 
 
 
 ## Work Experience
 
-### End-of-training project within the Passerelle
+### End-of-training project within The Passerelle
 #### JUNIOR WEB DEVELOPER
 #### 06/2020 - 07/2020
 
@@ -31,8 +35,8 @@
 * Teamwork with web designers: ideas, functionality, content, business model
 
 
-### Land army (Foreign Legion) 
-#### NATIONAL MILITARY / TRANSMITTER
+### Army (French Foreign Legion) 
+#### NCM / TRANSMITTER
 #### 12/2015 - 02/2020
 
 * Participation in the Vigipirate plan, including overseas missions (Mayotte, Martinique, Guadeloupe)
@@ -54,10 +58,11 @@
 #### MASTER IN PHILOSOPHY AND SOCIAL SCIENCES
 #### 09/2007 - 06/2012
 
-* Chair of philosophy and methodology of science 
-* Teacher of philosophy and human and social sciences
+* Chair of philosophy and science methodology 
+* Professor of philosophy, social and human sciences
 
 ## Languages
+
 |||
 |:---------------------|:------------------------|
 | Belarusian  				 | Natives								 |
