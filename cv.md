@@ -2,9 +2,9 @@
 ## JUNIOR SOFTWARE ENGINEER
 ![](profile.png)
 
-|ivansaklov@gmail.com 	| [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/) |
-|:----------------------|:----------------------------------------|
-| **+33-601-29-47-49**  | **[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov)** 								 |
+|ivansaklov@gmail.com		| [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aleh-smaliakou/)	|
+|:----------------------|:----------------------|
+| **+33-601-29-47-49**	| **[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/iSaklov)**	|
 
 
 ## Professional skills
@@ -13,8 +13,8 @@
 |:-------------------:|:-------------------:|:---------------:|
 | **CCS3**						| **React**						| **API REST**		|
 | **SASS & SCSS**			| **Next.js**					| **JSON**				|
-| **Bootstrap**				| **Node.js**			 		| **Redux**			 	| 
-| **Materialize CCS** | **Express.js**			| **NoSQL**				| 
+| **Bootstrap**				| **Node.js**					| **Redux**				|
+| **Materialize CCS**	| **Express.js**			| **NoSQL**				|
 
 
 ## Work Experience
@@ -29,7 +29,7 @@
 * Teamwork with web designers: ideas, functionality, content, business model
 
 
-### Army (French Foreign Legion) 
+### Army (French Foreign Legion)
 #### NCM / TRANSMITTER
 #### 12/2015 - 02/2020
 
@@ -42,7 +42,7 @@
 ## Education and degrees
 
 ### The Passerelle & TharGo | Paris Code
-#### RNCP LEVEL V TITLE « WEB AND MOBILE WEB DEVELOPMENT » 
+#### RNCP LEVEL V TITLE « WEB AND MOBILE WEB DEVELOPMENT »
 #### 03/2021 - 10/2021
 
 * Mixed training: web development and mobile web leading to the job of web developer called « full stack »
@@ -52,7 +52,7 @@
 #### MASTER IN PHILOSOPHY AND SOCIAL SCIENCES
 #### 09/2007 - 06/2012
 
-* Chair of philosophy and science methodology 
+* Chair of philosophy and science methodology
 * Professor of philosophy, social and human sciences
 
 ## Languages
